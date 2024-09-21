@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining knowledge the amazing technologies in the world of programming 
 - 🌱 I’m currently learning C++,Python,Java
 - 💞️ I’m looking to collaborate on projects that would enhance my skills 
-- 📫 Reach me through my email : shindeojaswi@gmail.com 
+- 📫 Reach me through my email : shindeojaswi@gmail.com ; Linedin : https://www.linkedin.com/in/ojaswi-shinde-914005281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bqi7ASqrXSkuvMmc2MPuFOw%3D%3D
 - 😄 Pronouns: she
 - ⚡ Fun fact: I'm a curious soul always to explore.
 
